@@ -27,8 +27,8 @@ $ git pull origin master
 
 If you don't have Git installed, don't worry. GitHub has an application that makes it easy to work with files:
 
-# install [GitHub for Windows](http://windows.github.com) or [GitHub for Mac](http://mac.github.com)
-# go to https://github.com/frc-4931/2014-Design in your browser and click on the "Clone to Desktop" button in the lower right-hand corner of the page
-# use the GitHub for Windows or Mac application to commit changes and new files
+1. install [GitHub for Windows](http://windows.github.com) or [GitHub for Mac](http://mac.github.com)
+1. go to https://github.com/frc-4931/2014-Design in your browser and click on the "Clone to Desktop" button in the lower right-hand corner of the page
+1. use the GitHub for Windows or Mac application to commit changes and new files
 
 See the [help for GitHub for Windows](http://windows.github.com/help.html) or [for Mac](http://mac.github.com/help.html).
